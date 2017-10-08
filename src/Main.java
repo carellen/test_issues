@@ -4,13 +4,11 @@ public class Main {
         String masterThird;
         String masterFourth;
         String FirstBranchFirst;
-
         String FirstBranchThird;
         String FirstBranchFourth;
         String masterFifth;
         String masterSixth;
         String masterSeventh;
         String FirstBranchFifth;
-
     }
 }

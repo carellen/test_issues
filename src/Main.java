@@ -4,5 +4,6 @@ public class Main {
         String masterFirst;
         String masterSecond;
         String masterThird;
+        String masterFourth;
     }
 }

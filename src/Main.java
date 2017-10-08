@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
         String masterStart;
 
-        String Second;
+
         String masterThird;
         String masterFourth;
         String FirstBranchFirst;

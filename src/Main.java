@@ -6,7 +6,7 @@ public class Main {
         String masterThird;
         String masterFourth;
         String FirstBranchFirst;
-        String FirstBranchSecond;
+
         String FirstBranchThird;
         String FirstBranchFourth;
         String masterFifth;

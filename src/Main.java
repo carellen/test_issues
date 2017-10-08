@@ -8,6 +8,7 @@ public class Main {
         String FirstBranchFirst;
         String FirstBranchSecond;
         String masterFifth;
+        String masterSixth;
 
     }
 }

@@ -3,5 +3,6 @@ public class Main {
         String masterStart;
         String masterFirst;
         String masterSecond;
+        String masterThird;
     }
 }

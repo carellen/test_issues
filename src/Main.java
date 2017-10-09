@@ -3,7 +3,7 @@ public class Main {
         String masterStart;
         String masterThird;
 
-        String master;
+
         String FirstBranchFifth;
 
         String test_issues_2_change;
